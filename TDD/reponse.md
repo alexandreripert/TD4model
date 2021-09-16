@@ -8,4 +8,13 @@ Mockito : permet de créer des objets de test.
 
 
 
+Fake it
+
 Quelle duplication existe pour l’instant dans notre code ?
+
+
+
+Triangulation
+
+Est-il possible de faire un test qui n’implique l’ajout que d’une seule de ces deux méthodes ?
+
