@@ -5,3 +5,7 @@ JUnit : c'est un framework de test qui permet de réaliser des tests unitaires e
 Hamcrest : permet de définir des règles de correspondance pour des tests. 
 
 Mockito : permet de créer des objets de test.
+
+
+
+Quelle duplication existe pour l’instant dans notre code ?
